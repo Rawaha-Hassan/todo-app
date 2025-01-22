@@ -16,7 +16,8 @@
     "jest-environment-jsdom": "^29.7.0"
   },
   "scripts": {
-    "build": "next build"
+    "build": "next build",
+    "start": "next start"
   },
   "jest": {
     "testEnvironment": "jsdom"
