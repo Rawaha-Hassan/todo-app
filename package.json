@@ -15,6 +15,9 @@
     "@testing-library/jest-dom": "^6.6.3",
     "jest-environment-jsdom": "^29.7.0"
   },
+  "scripts": {
+    "build": "next build"
+  },
   "jest": {
     "testEnvironment": "jsdom"
   }
