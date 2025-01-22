@@ -1,4 +1,5 @@
 import React from "react";
+import prisma from "../lib/prisma";
 import TaskList from "../components/TaskList.jsx"; // Import TaskList component
 
 const Dashboard = () => {

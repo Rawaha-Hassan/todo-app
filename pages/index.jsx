@@ -1,4 +1,5 @@
 import React from "react";
+import prisma from "../lib/prisma";
 
 const Home = () => {
   return (
